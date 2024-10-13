@@ -1,0 +1,14 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Teste fullStack to-do-list nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Lucas Kato",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
